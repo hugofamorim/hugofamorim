@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Hugo Ferreira Amorim 👋
 
-<!--
-**hugofamorim/hugofamorim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Software Engineer
 
-Here are some ideas to get you started:
+I'm a software developer from Brazil focused on building modern web applications, scalable APIs, and business-oriented software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across the full development lifecycle, from interface design and backend architecture to database modeling, testing, and deployment.
+
+### Tech Stack
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+
+**Backend:** Node.js, NestJS, REST APIs, WebSockets
+
+**Database:** PostgreSQL, Prisma, Redis
+
+**Mobile:** React Native, Expo
+
+**DevOps & Tools:** Docker, Git, GitHub Actions, Linux
+
+### Featured Open Source Projects
+
+**TenantCore** — Multi-tenant SaaS architecture with authentication, RBAC, organization management, and auditing. *(Planned)*
+
+More projects and technical case studies will be added as they are released.
+
+### Professional Experience
+
+I've worked on software projects involving business management, educational platforms, operational workflows, and mobile applications.
+
+Some of my commercial projects are private. Public technical case studies and independent open-source projects showcase the engineering skills involved.
+
+### Connect With Me
+
+- [Portfolio](https://ferreiraamorim.com.br)
+- [LinkedIn](https://www.linkedin.com/in/hugo-ferreira-amorim-2742a5355)
